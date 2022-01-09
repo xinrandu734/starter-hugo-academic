@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: Felt understanding as a bridge between social identity and wellbeing among university students
+summary: Poster
+#tags:
+#- Deep Learning
+date: "2021-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "project/poster/poster.pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "Poster/poster.pdf"
 url_slides: ""
 url_video: ""
 

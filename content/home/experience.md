@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Organiser
+    company: ReproducibiliTea Exeter
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: ''
+    location: Exeter, United Kingdom
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Organise journal club events among PhDs and ECRs
+        * Facilitate discussions on papers about Open Science
+        * Deliver workshops on practices for Reproducible Science （e.g., pre-registration)        
+          
+  - title: Postgraduate Teaching Assistant
+    company: University of Exeter
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Exeter, United Kingdom
+    date_start: '2021-02-01'
+    date_end: ''
+    description: |2-
+        Help module convenors with teaching. 
+        Modules include: 
+        * Social Psychology Practical
+        * Methods and Statistics in Psychology
+
 
 design:
   columns: '2'
