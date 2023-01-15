@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Instructor
+    company: Coding For Reproducible Research community at University of Exeter
+    company_url: ''
+    company_logo: ''
+    location: Exeter, United Kingdom
+    date_start: '2022-11-01'
+    date_end: ''
+    description: |2-
+        Deliver "Introduction to R" workshop to PhDs and ECRs.
+        
+        * Content includes R basics, data wrangling etc.
+        * Facilitate hybrid session, help both in-person and online participants.      
+
   - title: Organiser
     company: ReproducibiliTea Exeter
     company_url: ''
@@ -48,8 +61,9 @@ experience:
         Modules include: 
         * Social Psychology Practical
         * Methods and Statistics in Psychology
+        * Introduction to Statistics
 
 
 design:
-  columns: '2'
+  columns: '3'
 ---
